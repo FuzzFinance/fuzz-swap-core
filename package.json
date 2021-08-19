@@ -1,7 +1,7 @@
 {
   "name": "@fuzzfinance-libs/fuzz-swap-core",
   "description": "🎛 Core contracts for the fuzz protocol",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "homepage": "https://fuzz.fi",
   "repository": {
     "type": "git",
